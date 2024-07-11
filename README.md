@@ -3,7 +3,7 @@
   
   <div align="left">
     <h2>Dados</h2>
-    ¡Bienvenido! Este proyecto se generó con [Angular CLI] version 18.0.6.
+    ¡Bienvenido! Este proyecto se generó con Angular CLI version 18.0.6.
 </div>
 
 

@@ -2,7 +2,7 @@
 <div align="left">
     <h2>Dados</h2>
 </div>
-  ¡Bienvenido! Este proyecto se generó con [Angular CLI](https://github.com/angular/angular-cli) version 18.0.6.
+  # ¡Bienvenido! Este proyecto se generó con [Angular CLI](https://github.com/angular/angular-cli) version 18.0.6.
 
 <div align="left">
   <h2>Descripción</h2>
